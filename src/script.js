@@ -4,6 +4,6 @@ function calcularidade(){
     //let retorno = String("A sua idade é" + idade);
     //document.getElementById("resultado").innerHTML = retorno;
 
-    document.getElementById("resultado").innerHTML = `Sua idade é : ${idade}`;
+    //document.getElementById("resultado").innerHTML = `Sua idade é : ${idade}`;
 
 }
